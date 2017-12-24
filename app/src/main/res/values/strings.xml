@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Easy Video</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="ok">Ok</string>
+    <string name="shareit">Share</string>
+    <string name="invalid_video">Invalid Video</string>
+    <string name="video_editing_failed">unfortunately video processing was unsuccessful</string>
+    <string name="video_editing_done1">Video successfully saved in phone memorey, </string>
+    <string name="video_editing_done2">, folder</string>
+    <string name="editvideo">Edit video</string>
+</resources>
