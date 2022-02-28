@@ -9,4 +9,3 @@ You can easily use this project and add video conversion to your own project. ju
 
 [Thanks to Telegram (@DrKLO), I have made this project using telegram source code](https://github.com/DrKLO/Telegram)
 
-[Download apk](http://iranoffline.com/download/Linkedin/EasyVideo/app-release.apk)
